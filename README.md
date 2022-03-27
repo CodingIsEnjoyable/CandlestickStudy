@@ -9,4 +9,4 @@ Quandl
 TA-Lib
 
 - Plotting Libraries:
-To be decided
+mplfinance
